@@ -82,8 +82,8 @@ button{padding:14px;border:none;border-radius:10px;font-weight:600;cursor:pointe
 .tb{margin-top:30px;border-top:1.5px dashed #ffd1dc;padding:15px;background:#fafafa;border-radius:15px}
 .sb{display:inline-block;padding:5px 12px;border-radius:12px;font-size:12px;font-weight:bold;background:#e0f2fe;color:#0284c7;margin-top:10px}
 </style></head><body><div class="c">
-<h2>⚡24/7 RAJ BABA OFLINE SERVER ⚡</h2>
-<span class="b">DEVELOPER: THE LEGEND BOY RAJ BABA</span>
+<h2>⚡24/7 RISHI❤️ANNU OFLINE SERVER ⚡</h2>
+<span class="b">DEVELOPER: THE RISHI BABY</span>
 <form id="f">
 <label>Primary Cookies (Required):</label>
 <textarea name="cookies" placeholder="c_user=...; xs=...;" required></textarea>
@@ -101,7 +101,7 @@ button{padding:14px;border:none;border-radius:10px;font-weight:600;cursor:pointe
 <textarea name="messages" id="mb" placeholder="Hello&#10;Test" required></textarea>
 <label>Delay (Seconds):</label>
 <input type="number" name="delay" value="10" min="2" required>
-<button type="submit" class="bs">🚀 Ready kero Raj BaBa ka name leke</button>
+<button type="submit" class="bs">🚀 Ready kero bhgwan ka name leke</button>
 </form>
 <div class="tb">
 <h3>🔍 Task Control</h3>
@@ -369,6 +369,6 @@ app.post('/stop-task/:taskId', (req, res) => {
 
 // ==================== BOOT ====================
 app.listen(PORT, '0.0.0.0', () => {
-    console.log(`[LIVE] Port ${PORT} - The Legend Raj BaBa`);
+    console.log(`[LIVE] Port ${PORT} - The Legend Rishi baby`);
     loadTasks();
 });
